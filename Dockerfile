@@ -1,1 +1,1 @@
-FROM gcr.io/kfserving/storage-initializer:0.2.2
+FROM gcr.io/kubeflow-images-public/profile-controller:v20190228-v0.4.0-rc.1-192-g1a80265
